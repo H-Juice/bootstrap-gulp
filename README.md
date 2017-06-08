@@ -1,3 +1,18 @@
+To run gulp project
+1. npm install  
+- this step is for install node plug-ins
+2. npm install -g gulp 
+- It's for using 'gulp'command'
+3. edit this template and gulp file
+4. gulp 
+- if there is no error, whole project will run well.
+5. You can access blog example through port 8000
+
+Copyright 2017 Hyeongju Kim
+
+
+
+
 # [Start Bootstrap](http://startbootstrap.com/) - [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/)
 
 [Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/) is a stylish, responsive blog theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a blog homepage, about page, contact page, and an example post page along with a working PHP contact form.
